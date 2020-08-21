@@ -137,7 +137,7 @@ statsmodels==0.11.1
 streamlit==0.63.0
 tensorboard==2.0.2
 tensorboard-plugin-wit==1.6.0
-tensorflow==2.0.0
+tensorflow==2.0.1
 tensorflow-estimator==2.0.1
 tensorflow-serving-api==2.2.0
 tensorflow-serving-api-python3==1.8.0
